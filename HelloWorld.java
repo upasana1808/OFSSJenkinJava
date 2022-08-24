@@ -5,6 +5,10 @@ public class HelloWorld {
 		System.out.println("How are you");
 		System.out.println("I am good");
 		System.out.println("Long time no see");
+		System.out.println("Hello world");
+		System.out.println("How are you");
+		System.out.println("I am good");
+		System.out.println("Long time no see");
 
 	}
 
